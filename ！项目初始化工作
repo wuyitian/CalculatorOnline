@@ -5,7 +5,7 @@
     node安装电梯：https://www.runoob.com/nodejs/nodejs-install-setup.html
 
 2、安装npm的淘宝镜像（如果命令行安装不了，报code ENOLOCAL，试着使用Git Bash安装）
-   （命令行）： npm install -g cnpm –registry=https://registry.npm.taobao.org
+   （命令行）： npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 3、安装全局vue-cli脚手架
    （命令行）： cnpm install -g vue-cli
